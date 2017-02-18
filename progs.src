@@ -1,0 +1,59 @@
+../progs.dat
+
+defs.qc 
+defs_malice.qc
+proof.qc
+subs.qc 
+fight.qc 
+ai.qc 
+combat.qc 
+UpdateAmmoBars.qc //malice
+items.qc 
+BurnFucker.qc //malice
+W_FireTorpedo.qc //malice
+probe.qc //malice
+m_items.qc //malice
+m_items2.qc //malice
+triggers2.qc //malice
+chase_cam.qc //malice
+weapons.qc 
+world.qc 
+checkdemos.qc //malice
+fadein.qc //malice
+rain.qc //malice
+preventcheat.qc //malice
+client.qc 
+blooddrop.qc //malice
+OverLoad.qc //malice
+player.qc 
+exploding_obj.qc //malice
+barrel_crate.qc //malice
+monsters.qc 
+doors.qc 
+buttons.qc 
+triggers.qc 
+plats.qc 
+misc.qc 
+dealwithskill.qc //malice
+choosename.qc //malice
+cbot_ai.qc //malice 
+cbot_actions.qc //malice
+//malice monsters
+monsters/monster_torcher.qc
+monsters/monster_baboon.qc
+monsters/monster_banshee.qc
+monsters/monster_bara.qc
+monsters/monster_blow.qc
+monsters/monster_bossman.qc
+monsters/monster_merc.qc
+monsters/monster_dancer.qc
+monsters/monster_frogman.qc
+monsters/monster_swat.qc
+monsters/monster_hanger.qc
+monsters/monster_hunter.qc
+monsters/monster_probe.qc
+monsters/monster_rats.qc
+monsters/monster_rider.qc
+monsters/monster_riot.qc
+monsters/monster_turret.qc
+mosters_replace.qc
